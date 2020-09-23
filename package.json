@@ -22,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/harshi0806/Easy-Notes-App/issues"
   },
-  "homepage": "https://github.com/harshi0806/Easy-Notes-App#readme"
+  "homepage": "https://github.com/harshi0806/Easy-Notes-App#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.6"
+  }
 }
